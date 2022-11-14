@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Cormorant+Infant:ital,wght@1,300;1,700&family=Lobster&family=Montserrat:wght@400;700&display=swap');
+
+*,
+*::after,
+*::before{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body{
+  max-width: 100%;
+  background-color: rgb(107, 140, 141); 
+  font-family: 'Bad Script', sans-serif;  
+}
+
+b{
+  color: blue;
+}
+h2{
+  color:rgb(21, 31, 41);
+  font-weight: bold;
+}
